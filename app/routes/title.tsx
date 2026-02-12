@@ -8,5 +8,5 @@ export function meta({}: Route.MetaArgs) {
 }
 
 export default function Title() {
-  return (<div>OI</div>);
+  return (<div>OI segunda página</div>);
 }
